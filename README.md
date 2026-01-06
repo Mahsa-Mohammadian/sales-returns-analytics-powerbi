@@ -1,7 +1,7 @@
 # sales-returns-analytics-powerbi
 Sales and returns analysis using PostgreSQL, Power Query, and Power BI
 # Sales & Returns Analytics Dashboard
-![Sales_Analytics_Dashboard_PowerBI](assets/dashboard.png)
+![Sales & Returns Analytics Dashboard](Sales_Analytics_Dashboard_PowerBI.png)
 This project analyzes sales performance and return behavior using retail transaction data.
 
 ## Tools Used
